@@ -130,6 +130,16 @@ Click the below gif to watch the complete demo of the Application.
 
 ![Low-Level DFD](./screenshots/low-level-dfd.png)
 
+![Low-Level DFD](./screenshots/low-level-dfd1.png)
+
+![Low-Level DFD](./screenshots/low-level-dfd2.png)
+
+![Low-Level DFD](./screenshots/low-level-dfd3.png)
+
+![Low-Level DFD](./screenshots/low-level-dfd4.png)
+
+![Low-Level DFD](./screenshots/low-level-dfd5.png)
+
 ### Threats and Mitigations
 
 | Threat Type               | Mitigation                                  |
