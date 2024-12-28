@@ -136,8 +136,3 @@ Click the below gif to watch the complete demo of the Application.
 
 ## Database Structure
 ![Database Diagram](./screenshots/erd-project_ssd.png)
-
-## Authors
-
-- Mohammed Fazil ([@mohammedFazil3](https://github.com/mohammedFazil3))
-- Misbahul Haque ([@MisbahulHaque700](https://github.com/MisbahulHaque700))
