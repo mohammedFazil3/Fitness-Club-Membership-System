@@ -30,6 +30,9 @@ A comprehensive and secure desktop application using JavaFX designed for managin
 /lib
     *.jar          # Java libraries
 
+/screenshots
+    *.png          # Screenshots
+
 /sample_data
     *.sql          # Sample data for MySQL
 
@@ -120,6 +123,12 @@ Click the below gif to watch the complete demo of the Application.
 ---
 
 ## Secure Design Principles and Threat Modeling
+
+### Data Flow Diagrams
+
+![High-Level DFD](./screenshots/High-level-dfd.png)
+
+![Low-Level DFD](./screenshots/low-level-dfd.png)
 
 ### Threats and Mitigations
 
